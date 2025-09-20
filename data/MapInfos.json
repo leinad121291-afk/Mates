@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":981.5999999999999,"scrollY":546.6},
+{"id":2,"expanded":true,"name":"Oasis","order":2,"parentId":1,"scrollX":972,"scrollY":797.4},
+{"id":3,"expanded":false,"name":"inicio","order":3,"parentId":2,"scrollX":981.5999999999999,"scrollY":546.6}
+]
